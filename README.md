@@ -15,3 +15,5 @@ This repository contains various kinds of codes/algorithms
  latitudes lie in the range (-90,90) and longitudes (-180,180).
  
  2) sum of three numbers: Write a program that will print three elements in an array whose sum is equal to a given number.
+ 3) kthNodeInBST actually gives kth smallest element in BST. The algorthm is: Add a new key lcount to tree node. This keeps track of "total number of nodes present in left branch". So, for a tree having lcount = 3, root will be 4th smallest element.
+ 4) linkedlistassignment: Contains variou operations performed on linked list like bubble sort, merge sort, split linkedlist, find element at ith index in linkedlist, delete ij linked list, search in linked list etc.
